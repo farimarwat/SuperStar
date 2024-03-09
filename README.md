@@ -8,6 +8,7 @@ The SuperStar Audio Processing Library is designed to facilitate complex audio p
 - **Join:** Seamlessly concatenate two audio files into a single file.
 - **Trim:** Extract specific parts of an audio file based on start time and duration.
 - **Voice Transformations:** Apply Minion or Robot voice effects to your audio files.
+- More effects will come soon
 
 ## Getting Started
 
